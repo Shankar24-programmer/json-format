@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "K.Muthu Sankar",
+    "email": "reachtoshankarsk@gmail.com",
+    "phone": "6380011614",
+    "degree": "B.E",
+    "summary": "I am a full-stack developer",
+    "location": {
+      "address": "3rd cross street",
+      "city": "Velacherry,Chennai",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": " Instagram",
+        "username": "shankar"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Kamaraj College of Engineering and Technology",
+      "area": "Computer Science and Engineering",
+      "studyType": "Fulltime",
+      "startDate": "01-8-2016",
+      "endDate": "10-09-2020",
+      "gpa": "8.50"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["('Python','SQL','JavaScript')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "Develop coding",
+      "keywords": ["('websites', 'userinterface')"]
+    }
+  ]
+}
